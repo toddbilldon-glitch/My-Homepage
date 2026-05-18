@@ -1,13 +1,1 @@
----
-title: "Ipsum Lorem is all you need for a workshop"
-collection: publications
-category: conferences
-permalink: /publication/2025-06-15-ipsum-lorem-workshop
-excerpt: 'This workshop paper explores the application of Ipsum Lorem in long-context foundation models, highlighting improvements in handling extended sequences for LLMs.'
-date: 2025-06-15
-venue: 'Under review at COML Workshop on Large Language Models (COMLW 2025)'
-slidesurl: 'http://yourwebsite.com/files/slides-ipsum-lorem-workshop.pdf'
-paperurl: 'https://openreview.net/forum?id=example123wpsk'
-bibtexurl: 'http://yourwebsite.com/files/bibtex-ipsum-lorem-workshop.bib'
-citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need for a workshop." <i>Under review at COML Workshop on Large Language Models (COMLW 2025)</i>.'
----
+LS0tCnRpdGxlOiAiSXBzdW0gTG9yZW0gaXMgYWxsIHlvdSBuZWVkIGZvciBhIHdvcmtzaG9wIgpjb2xsZWN0aW9uOiBwdWJsaWNhdGlvbnMKY2F0ZWdvcnk6IGNvbmZlcmVuY2VzCnBlcm1hbGluazogL3B1YmxpY2F0aW9uLzIwMjUtMDYtMTUtaXBzdW0tbG9yZW0td29ya3Nob3AKZXhjZXJwdDogJ1RoaXMgd29ya3Nob3AgcGFwZXIgZXhwbG9yZXMgdGhlIGFwcGxpY2F0aW9uIG9mIElwc3VtIExvcmVtIGluIGxvbmctY29udGV4dCBmb3VuZGF0aW9uIG1vZGVscywgaGlnaGxpZ2h0aW5nIGltcHJvdmVtZW50cyBpbiBoYW5kbGluZyBleHRlbmRlZCBzZXF1ZW5jZXMgZm9yIExMTXMuJwpkYXRlOiAyMDI1LTA2LTE1CnZlbnVlOiAnQWNjZXB0ZWQgYXQgQ09NTCBXb3Jrc2hvcCBvbiBMYXJnZSBMYW5ndWFnZSBNb2RlbHMgKENPTExXIDIwMjYpJwpzbGlkZXN1cmw6ICdodHRwOi8veW91cndlYnNpdGUuY29tL2ZpbGVzL3NsaWRlcy1pcHN1bS1sb3JlbS13b3Jrc2hvcC5wZGYnCnBhcGVydXJsOiAnaHR0cHM6Ly9vcGVucmV2aWV3Lm5ldC9mb3J1bT9pZD1leGFtcGxlMTIzd3BzaycKYmlidGV4dXJsOiAnaHR0cDovL3lvdXJ3ZWJzaXRlLmNvbS9maWxlcy9iaWJ0ZXgtaXBzdW0tbG9yZW0td29ya3Nob3AuYmliJwpjaXRhdGlvbjogJ0pvaG4gU21pdGgsIGV0IGFsLiAoMjAyNikgLiAiSXBzdW0gTG9yZW0gaXMgYWxsIHlvdSBuZWVkIGZvciBhIHdvcmtzaG9wLiIgPGlfPlByb2NlZWRpbmdzIG9mIHRoZSBDT01MID
