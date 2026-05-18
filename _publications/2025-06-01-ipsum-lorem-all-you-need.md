@@ -1,13 +1,1 @@
----
-title: "Ipsum Lorem is all you need"
-collection: publications
-category: conferences
-permalink: /publication/2025-06-01-ipsum-lorem-all-you-need
-excerpt: 'This paper introduces a novel approach to simplifying LLM architectures, demonstrating that Ipsum Lorem techniques can achieve competitive performance with reduced computational costs.'
-date: 2025-06-01
-venue: 'Under review at COML 2025 - Conference on Machine Learning'
-slidesurl: 'http://yourwebsite.com/files/slides-ipsum-lorem.pdf'
-paperurl: 'https://openreview.net/forum?id=example123'
-bibtexurl: 'http://yourwebsite.com/files/bibtex-ipsum-lorem.bib'
-citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need." <i>Under review at COML 2025 - Conference on Machine Learning</i>.'
----
+LS0tCnRpdGxlOiAiSXBzdW0gTG9yZW0gaXMgYWxsIHlvdSBuZWVkIgpjb2xsZWN0aW9uOiBwdWJsaWNhdGlvbnMKY2F0ZWdvcnk6IGNvbmZlcmVuY2VzCnBlcm1hbGluazogL3B1YmxpY2F0aW9uLzIwMjUtMDYtMDEtaXBzdW0tbG9yZW0tYWxsLXlvdS1uZWVkCmV4Y2VycHQ6ICdUaGlzIHBhcGVyIGludHJvZHVjZXMgYSBub3ZlbCBhcHByb2FjaCB0byBzaW1wbGlmeWluZyBMTU0gYXJjaGl0ZWN0dXJlcywgZGVtb25zdHJhdGluZyB0aGF0IElwc3VtIExvcmVtIHRlY2huaXF1ZXMgY2FuIGFjaGlldmUgY29tcGV0aXRpdmUgcGVyZm9ybWFuY2Ugd2l0aCByZWR1Y2VkIGNvbXB1dGF0aW9uYWwgY29zdHMuJwpkYXRlOiAyMDI1LTA2LTAxCnZlbnVlOiAnQWNjZXB0ZWQgYXQgQ09NTCAyMDI2IC0gQ29uZmVyZW5jZSBvbiBNYWNoaW5lIExlYXJuaW5nJwpzbGlkZXN1cmw6ICdodHRwOi8veW91cndlYnNpdGUuY29tL2ZpbGVzL3NsaWRlcy1pcHN1bS1sb3JlbS5wZGYnCnBhcGVydXJsOiAnaHR0cHM6Ly9vcGVucmV2aWV3Lm5ldC9mb3J1bT9pZD1leGFtcGxlMTIzJwpleHRleHVybDogJ2h0dHA6Ly95b3Vyd2Vic2l0ZS5jb20vZmlsZXMvYmlidGV4LWlwc3VtLWxvcmVtLmJpYicKY2l0YXRpb246ICdKb2huIFNtaXRoLCBldCBhbC4gKDIwMjYpLiAiSXBzdW0gTG9yZW0gaXMgYWxsIHlvdSBuZWVkLiIgPGlfPlByb2NlZWRpbmdzIG9mIHRoZSAyMDI2IENvbmZlcmVuY2Ugb24gTWFjaGluZSBMZWFybmluZyAoQ09NTCAyMDI2KTwvaT4uJwotLS0K
